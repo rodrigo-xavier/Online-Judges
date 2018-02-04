@@ -4,6 +4,8 @@ Problem: 1001 - Extremely Basic
 The problem has been resolved using the sum operation, 
 native to language Python.
 
+By Rodrigo
+
 """
 
 integer_A = int(input())

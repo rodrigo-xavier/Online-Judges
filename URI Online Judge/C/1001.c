@@ -3,6 +3,8 @@
  * 
  * The problem has been resolved using the sum operation, 
  * native to language C.
+ *
+ * By Rodrigo
  */
 
 #include "stdio.h"
